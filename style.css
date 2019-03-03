@@ -154,6 +154,7 @@ a:hover {
     text-decoration: none;
     color: #FFF;
     background: #9843BA;
+    width: 16%;
     transition: .4s;
 }
 
