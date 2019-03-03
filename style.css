@@ -156,6 +156,7 @@ a:hover {
     background: #9843BA;
     width: 16%;
     transition: .4s;
+    font-size: 13px;
 }
 
 .square_btn>span{
