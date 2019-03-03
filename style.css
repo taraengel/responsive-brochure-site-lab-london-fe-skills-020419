@@ -146,25 +146,6 @@ a:hover {
   padding: 2px;
 }
 
-article-button {
-  position: relative;
-    display: inline-block;
-    font-weight: bold;
-    padding: 1em 0.5em;
-    text-decoration: none;
-    color: #FFF;
-    background: #ff7f7f;
-    transition: .4s;
-}
-
-.article-button>span{
-    border-bottom: solid 2px #FFF;
-    border-top: solid 2px #FFF;
-}
-
- .article-button:hover span {
-    padding: 0.1em 0;
-}
 .square_btn {
     position: relative;
     display: inline-block;
