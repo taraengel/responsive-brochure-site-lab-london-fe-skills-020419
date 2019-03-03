@@ -167,3 +167,12 @@ a:hover {
   position: relative;
   transition: 0.5s;
 }
+
+.article-button span:after {
+  content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
